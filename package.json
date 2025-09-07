@@ -17,6 +17,9 @@
     "dev": "tsup --watch",
     "build": "tsup"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
