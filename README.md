@@ -1,4 +1,4 @@
-# Package Boilerplate (TypeScript)
+# Protorians Parameters
 
 ---
 
