@@ -24,7 +24,12 @@
     "strict": true,
     "verbatimModuleSyntax": true,
     "rootDir": "./source",
-    "baseUrl": "."
+    "baseUrl": ".",
+    "paths": {
+      "@/types/*": ["source/types/*"],
+      "@/utilities/*": ["source/utilities/*"],
+      "@/*": ["source/*"]
+    }
   },
   "exclude": [
     "node_modules",
